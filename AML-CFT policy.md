@@ -1,112 +1,141 @@
-TERMS & CONDITIONS.
+Kria Technologies Limited 
+Anti-Money Laundering (AML) Program: Compliance and Supervisory Procedures
 ----------------
 
-### Last updated June 25, 2024
+### UPDATED AS OF 10TH OCTOBER, 2024
  
-### Introduction
+### 1. FIRM POLICY
 
-These Terms and Conditions ("Terms") constitute a legal agreement between you, as a user of Kriapay's services, and Kria Technologies Limited ("Kriapay," "we," "our," or "us"). These Terms govern your access to and use of Kriapay's mobile application, website, and other related products and services (collectively referred to as the "Services").
+### Anti-Money Laundering (AML) Policy
 
-By accessing or using any part of the Services, you agree to be bound by these Terms in full and without reservation. This includes acceptance of our Privacy Policy, which forms an integral part of these Terms. If you do not agree with any part of these Terms, you must refrain from using the Services.
+It is the policy of Kria Technologies Limited to prohibit and actively prevent money laundering and any activity that facilitates money laundering or the funding of terrorist or criminal activities. The company complies with all applicable requirements under the Money Laundering (Prohibition) Act, 2022, the Central Bank of Nigeria (CBN) Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT) Regulations, and other relevant Nigerian regulations.
 
-These Terms outline your rights and responsibilities when using Kriapay's platform, so please read them carefully. Your continued use of the Services constitutes acceptance of any updates or changes to these Terms, which we may make from time to time.
+Money laundering is generally defined as engaging in acts designed to conceal or disguise the true origins of criminally derived proceeds so that the proceeds appear to have derived from legitimate sources or constitute legitimate assets. Typically, money laundering occurs in three stages:
 
-Who we are and our company information:
+1. Placement: Criminally derived cash is introduced into the financial system, often through deposits, monetary instruments, or other means.
+2. Layering: Funds are transferred or moved into other accounts, institutions, or jurisdictions to obscure their origin.
+3. Integration: Laundered funds are reintroduced into the economy through the purchase of legitimate assets, business investments, or other financial activities.
 
-We are Kria Technologies Limited ("Company," "we," "us," "our"), a company registered in Nigeria at 16, Onijanikin Street, Alasia, Lagos 102101. Our operations include the mobile application Kriapay (the "App"), along with any other associated products and services governed by these legal terms (the "Legal Terms") (collectively, the "Services").
+While cash transactions are infrequent in digital financial solutions, fintech firms such as Kria Technologies are susceptible to being used for laundering funds acquired elsewhere or through fraudulent activities within the fintech ecosystem. Examples include unauthorized transactions, identity theft, cybercrime, and other digital fraud.
 
-Kriapay represents the future of effortless, cross-border money transfers.
+Terrorist financing may not necessarily involve proceeds of criminal conduct. It often aims to obscure the origin or intended use of funds, which could include funding illicit activities. Legitimate sources such as donations, business ownership, or personal employment may be exploited to finance terrorism. While the motives of terrorist financiers differ from those of traditional money launderers, the methods used often overlap. Financing terrorist activities may require minimal amounts of money, and such transactions might be small-scale or complex.
 
-You can reach us via phone at +2349057759592, email at info@kriapay.com, or by mail at 16, Onijanikin Street, Alasia, Lagos 102101, Nigeria.
+Kria Technologies’ AML policies, procedures, and internal controls are designed to ensure compliance with all applicable Nigerian regulations and guidelines, including those issued by the Special Control Unit Against Money Laundering (SCUML), the Nigerian Financial Intelligence Unit (NFIU), and the Central Bank of Nigeria (CBN). These policies are regularly reviewed and updated to reflect changes in regulations, emerging risks, and the company’s business model.
 
-These Legal Terms constitute a binding agreement between you ("you" or "user"), whether as an individual user or on behalf of an entity, and Kria Technologies Limited regarding your use of the Services. By accessing or using the Services, you acknowledge that you have read, understood, and agreed to comply with all provisions outlined in these Legal Terms. IF YOU DO NOT AGREE TO ANY PART OF THESE LEGAL TERMS, YOU ARE NOT PERMITTED TO USE THE SERVICES AND MUST DISCONTINUE USE IMMEDIATELY.
 
-We will notify you in advance of any planned changes to the Services you are using. Changes to the Legal Terms will take effect upon posting or notification via info@kriapay.com, as specified in the email notification. By continuing to use the Services after the effective date of any changes, you accept and agree to abide by the updated terms.
+### 2. AML COMPLIANCE PERSON DESIGNATION AND DUTIES
 
-The Services are designed for users aged 18 and above. Individuals under the age of 18 are prohibited from using or registering for the Service.
+Kria Technologies Limited has designated <strong>Atunwa Vincent</strong> as its Anti-Money Laundering Program Compliance Person (AML Compliance Person), with full responsibility for the firm’s AML program. 
 
-### TABLE OF CONTENTS
+Vincent brings valuable experience from his tenure as a Resolution and Compliance Officer at GUO Logistics, where he gained foundational insights into compliance policies. Though his prior compliance experience pertains to logistics rather than financial services, he is committed to enhancing his expertise through professional certifications and continuous education as needed.
 
-1. OUR SERVICES
-2. INTELLECTUAL PROPERTY RIGHTS
-3. USER REPRESENTATIONS
-4. USER REGISTRATION
-5. PROHIBITED ACTIVITIES
-6. USER GENERATED CONTRIBUTIONS
-7. CONTRIBUTION LICENSE
-8. GUIDELINES FOR REVIEWS
-9. MOBILE APPLICATION LICENSE
-10. SERVICES MANAGEMENT
-11. PRIVACY POLICY
-12. TERM AND TERMINATION
-13. MODIFICATIONS AND INTERRUPTIONS
-14. GOVERNING LAW
-15. DISPUTE RESOLUTION
-16. CORRECTIONS
-17. DISCLAIMER
-18. LIMITATIONS OF LIABILITY
-19. INDEMNIFICATION
-20. USER DATA
-21. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-22. MISCELLANEOUS
-23. CONTACT US
-    
-### 1. OUR SERVICES
-The information presented while using our Services is not intended for distribution to or utilization by any individual or entity in any jurisdiction or country where such distribution or use would contravene law or regulations, or require us to comply with registration requirements in that jurisdiction or country. Therefore, individuals who opt to access our Services from other locations do so of their own volition and are solely responsible for complying with applicable local laws.
+The duties of the AML Compliance Person include but are not limited to:
+1. Monitoring Compliance: Ensuring the firm adheres to all relevant anti-money laundering (AML) obligations under Nigerian laws, such as the requirements outlined by  Control Unit Against Money Laundering (SCUML) and the Central Bank of Nigeria (CBN).
+2. Oversight of Transactions and Customer Databases: Regularly reviewing transaction histories and customer data via the Admin dashboard to identify, flag, and deactivate accounts involved in suspicious or unlawful activities.
+3. Communication and Training: Providing employees with adequate training and guidance on AML policies and procedures, ensuring they remain aware of and compliant with their roles in detecting and preventing money laundering.
+4. Record-Keeping: Maintaining comprehensive and organized records of customer transactions, flagged accounts, Suspicious Transaction Reports (STRs), and related documentation.
+Records will be maintained using a combination of digital tools (e.g., the Admin dashboard) and software like Excel for tracking flagged accounts, compliance activities, and audit logs.
 
-### 2. INTELLECTUAL PROPERTY RIGHTS
-Our Intellectual Property
+5. Reporting: Filing Suspicious Transaction Reports (STRs) or equivalent documentation as required by Nigerian regulators, such as SCUML and the Nigerian Financial Intelligence Unit (NFIU), and ensuring timely communication with these agencies.
+   
+The AML Compliance Person is vested with full authority and responsibility to enforce the firm’s AML program. In this capacity, Vincent will also ensure the program is reviewed and updated regularly to reflect changes in applicable regulations and the firm’s business activities.
 
-We are the rightful owner or licensee of all intellectual property rights associated with our Services, encompassing all source code, databases, functionalities, software, website designs, audio, video, text, photographs, and graphics within the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").
+### Contact Information
+* Name: Atunwa Vincent
+* Title: AML Compliance Person and Director
+* Email: vincent.atunwa@kriapay.com
+* Phone: +2349057759592
+* Address: 16, Onijanikin Street, Alasia, Lagos, Nigeria
 
-Our Content and Marks are safeguarded by copyright, trademark laws, and various other intellectual property rights and unfair competition laws in the United States and globally.
 
-The Content and Marks are provided within or through the Services "AS IS" solely for your personal, non-commercial use or internal business purposes.
+### 3. GIVING AML INFORMATION TO RELEVANT AUTHORITIES AND OTHER FINANCIAL INSTITUTIONS
+### Requests for Information by Relevant Authorities:
 
-Your Use of Our Services
+Pursuant to applicable Nigerian laws and regulations, Kria Technologies Limited (“Kria Technologies”) will comply with requests for information from authorized government agencies, such as the Nigerian Financial Intelligence Unit (NFIU), regarding accounts and transactions suspected of involving money laundering or other financial crimes.
 
-Subject to your compliance with these Legal Terms, particularly the "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive, non-transferable, revocable license to:
+### Procedures for Handling Requests: 
+We will respond to requests for information by:
 
-* Access the Services; and
-* Download or print a copy of any portion of the Content to which you have rightfully gained access, solely for your personal, non-commercial use or internal business purposes.
-Except as expressly permitted in this section or elsewhere in our Legal Terms, no part of the Services, Content, or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose without our explicit prior written consent.
+1. Conducting a thorough review of our records to identify any accounts or transactions involving the individual, entity, or organization named in the request.
+2. Ensuring compliance with the specified timeframe for responses, which will be determined based on the urgency and legal mandate of the requesting authority.
+3. Maintaining a secure and confidential record of all searches, including the date of the request, the scope of the review, the individual conducting the review, and the outcome.
+4. Designating <strong>Atunwa Vincent</strong> as the primary point of contact (POC) for such requests. The POC will ensure prompt updates to contact information in the event of personnel changes.
+5. Directing any questions about a request to the designated authority as specified in the request.
 
-If you wish to utilize the Services, Content, or Marks in a manner not explicitly permitted in this section or elsewhere in our Legal Terms, please direct your request to: info@kriapay.com. Should we grant permission for you to post, reproduce, or publicly display any portion of our Services or Content, you must appropriately identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice accompanies such use.
+We will not disclose the existence or details of any request to unauthorized parties, except as necessary to fulfill the request. Kria Technologies will also implement robust measures to safeguard the security and confidentiality of such requests in compliance with applicable data protection laws.
 
-We reserve all rights not explicitly granted to you in relation to the Services, Content, and Marks.
+### Voluntary Information Sharing With Financial Institutions:
+ Under Nigerian law, Kria Technologies may share information with other financial institutions for the purpose of detecting and reporting activities related to money laundering, terrorist financing, or other financial crimes. Such information sharing will be conducted in line with relevant legal protections and confidentiality requirements.
+ 
+### Procedures for Voluntary Information Sharing:
 
-Any infringement of these Intellectual Property Rights will constitute a material breach of our Legal Terms, leading to the immediate termination of your right to utilize our Services.
+1. Prior to sharing information, Kria Technologies will:
+* Verify the legitimacy of the receiving institution’s request.
+* Obtain confirmation that the receiving institution is authorized to handle such information under Nigerian law.
+* Ensure the institution has adequate measures to maintain the confidentiality of shared data.
+  
+2. All information sharing will be limited to the following purposes:
+* Identifying and reporting potential money laundering or terrorist financing activities.
+* Determining whether to establish or maintain a customer relationship or transaction.
+* Assisting in compliance with regulatory requirements.
 
-Your Submissions
+3. Records of all information shared will be securely maintained, with clear documentation of the recipient institution, the purpose of the exchange, and the specific information provided.
 
-Prior to using our Services, please carefully review this section and the "PROHIBITED ACTIVITIES" section to understand:
 
-* The rights you confer to us; and
-* The obligations you undertake when posting or uploading any content through the Services.
-Submissions: By directly submitting any questions, comments, suggestions, ideas, feedback, or other information about the Services ("Submissions"), you agree to transfer to us all intellectual property rights associated with such Submissions. You acknowledge that we shall own these Submissions and are entitled to unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without any acknowledgment or compensation to you.
+### Handling Currency Transactions on the Kriapay Platform:
 
-Your Responsibility for Submissions: By sending us Submissions through any part of the Services, you:
+Kriapay users have the ability to swap currencies, including converting local currencies to foreign currencies (the US dollar inclusive). However, the following restrictions apply:
 
-* Affirm that you have read and agree with our "PROHIBITED ACTIVITIES" and undertake not to post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
-* To the extent permissible under applicable law, waive any and all moral rights to any such Submission;
-* Warrant that any such Submission is original to you or that you possess the necessary rights and licenses to submit such Submissions, and that you have full authority to grant us the aforementioned rights concerning your Submissions; and
-* Warrant and represent that your Submissions do not constitute confidential information.
-You bear sole responsibility for your Submissions and expressly agree to indemnify us for any and all losses we may incur as a result of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
+1. Users cannot directly top up a dollar wallet within the Kriapay platform.
+2. Withdrawals or transfers to dollar accounts from the Kriapay platform are not supported.
 
-### 3. USER REPRESENTATIONS
-By accessing and using the Services, you affirm and warrant that:
+### Procedures for Monitoring Currency Transactions:
+1. Kria Technologies will monitor all currency swap activities for unusual or suspicious patterns that may indicate potential money laundering or fraudulent activity.
+2. Any identified irregularities will be escalated to the AML Compliance Person, who will determine the need for further investigation or the filing of a Suspicious Activity Report (SAR).
+3. Records of all currency transactions will be maintained in compliance with applicable recordkeeping requirements.
 
-1. All registration information you provide is truthful, accurate, current, and complete;
-2. You will maintain the accuracy of such information and promptly update it as necessary;
-3. You possess the legal capacity to enter into these Legal Terms and agree to abide by them;
-4. You are of legal age in your jurisdiction to use the Services;
-5. You will not access the Services using automated or non-human means, such as bots or scripts;
-6. You will not utilize the Services for any unlawful or unauthorized purpose; and
-7. Your usage of the Services complies with all applicable laws and regulations.
-If you furnish any information that is false, inaccurate, outdated, or incomplete, we reserve the right to suspend or terminate your account and deny any current or future access to the Services (or any part thereof).
+### Confidentiality and Recordkeeping:
+All responses to government requests, voluntary information sharing activities, and records of currency transactions will be:
+1. Segregated from other operational data to ensure confidentiality.
+2. Retained securely for the legally required period.
+3. Accessible only to authorized personnel with a need to know.
 
-### 4. USER REGISTRATION
-You may need to register to access certain features of the Services. You agree to maintain the confidentiality of your password and accept responsibility for all activities that occur under your account. We reserve the right to remove, reclaim, or modify any username you select if we determine, at our sole discretion, that the username is inappropriate, obscene, or otherwise objectionable.
+### Joint Compliance Reporting:
+Where applicable, Kria Technologies may collaborate with partner financial institutions in reporting suspicious activities. Any such collaboration will be governed by strict confidentiality agreements and compliance with Nigerian legal requirements.
+
+
+### 4. CHECKING THE OFFICE OF FOREIGN ASSETS CONTROL (OFAC) LISTINGS
+Kria Technologies recognizes the importance of compliance with the Office of Foreign Assets Control (OFAC) regulations in conjunction with its Anti-Money Laundering (AML) compliance efforts. 
+
+OFAC administers and enforces economic sanctions and embargoes aimed at safeguarding U.S. foreign policy and national security. These sanctions target specific geographic regions, governments, individuals, and entities, including international narcotics traffickers, foreign terrorists, and proliferators of weapons of mass destruction.
+
+As part of its compliance measures, Kria Technologies will implement the following procedures:
+
+### Pre-Account Opening Screening
+Before opening an account, Kria Technologies will check to ensure that customers and transactions do not appear on the Specially Designated Nationals and Blocked Persons (SDN) List or involve prohibited activities under OFAC-administered economic sanctions and embargoes. 
+
+This verification will include screening names against the SDN List and any other applicable sanctions lists using available tools, including OFAC’s Sanctions List Search tool.
+
+### Ongoing Monitoring and Updates
+The SDN List and related sanctions programs are updated frequently. Kria Technologies will:
+
+1. Regularly consult the OFAC website for updates to the SDN List and sanctions programs.
+2. Subscribe to receive real-time updates from OFAC.
+3. Use compliance software to automate and ensure speed and accuracy in screening processes.
+4. Review existing customer accounts and transactions against updated lists and document all reviews.
+Handling Positive Matches and Prohibited Transactions
+If a customer or transaction is identified as matching an entry on the SDN List or involves activities prohibited by OFAC:
+Kria Technologies will immediately reject the transaction and/or block the customer’s assets.
+A blocked assets and/or rejected transaction form will be filed with OFAC within 10 days of detection.
+The OFAC Hotline at (800) 540-6322 will be contacted immediately for further guidance.
+Scope of Review
+The review process will include:
+Screening customer accounts during onboarding and periodically afterward.
+Monitoring transactions, including those that pass through Kria Technologies’ systems (e.g. deposits, currency swap or withdrawals).
+Documentation and Reporting
+All screenings, matches, and related actions will be documented. Required forms, including the Report of Blocked Transactions Form and Report of Rejected Transactions Form will be completed and submitted in accordance with OFAC regulations.
+Training and Awareness
+Kria Technologies will ensure that its compliance personnel are trained in OFAC regulations and are aware of the importance of identifying and reporting activities related to sanctions violations.
 
 ### 5. PROHIBITED ACTIVITIES
 You agree to use the Services only for their intended purposes and may not engage in the following prohibited activities:
